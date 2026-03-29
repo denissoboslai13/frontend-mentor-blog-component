@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/denissoboslai13/frontend-mentor-blog-component/blob/main/index.html)
+- Live Site URL: [Add live site URL here](https://denissoboslai13.github.io/frontend-mentor-blog-component/)
 
 ## My process
 
